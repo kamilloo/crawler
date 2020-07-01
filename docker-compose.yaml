@@ -1,0 +1,8 @@
+version: "2"
+services:
+  crawler:
+    build: .
+    image: crawler/python
+    volumes:
+     - .:/usr/src/app
+    container_name: crawler-wrapper
