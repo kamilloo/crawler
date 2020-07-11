@@ -3,20 +3,19 @@ import scrapy
 
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
-    start_urls = [
-        'http://quotes.toscrape.com/page/1/',
-        'http://quotes.toscrape.com/page/2/',
-    ]
+    def start_requests(self):
+        url = 'https://katalog.infoludek.pl/kategoria/gabinety_kosmetyczne/61'
+        yield scrapy.Request(url, self.parse)
 
     def parse(self, response):
-        for quote in response.css('div.quote'):
-            yield {
-                'text': quote.css('span.text::text').get(),
-                'author': quote.css('small.author::text').get(),
-                'tags': quote.css('div.tags a.tag::text').getall(),
-            }
+        for quote in response.css('div.entry_result'):
+           yield {
+                'text': quote.css('h4 a::text').get(),
+                'author': quote.css('div.entry_data').xpath('text()').getall()[1].strip(),
+           }
 
-        next_page = response.css('li.next a::attr(href)').get()
-        if next_page is not None:
-            next_page = response.urljoin(next_page)
-            yield response.follow(next_page, callback=self.parse)
+        next_pages = response.css('div.paginator a::attr(href)').getall()
+        for page in next_pages:
+            yield response.follow(page, self.parse)
+
+
