@@ -1,633 +1,4388 @@
 [
-{"title": "Instytut Zdrowia i Urody 'La Peri'", "mail": ["#k...@onet.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiWlM2NnVpL25MaDFNWTNjRHY5clB1Q2ZjSldoY3JoMzRXb3Y3Nk9YSCtmWT0iO2k6MTtzOjE2OiLerm+iGnNxFDnWyohHP8MrIjt9"]},
-{"title": "Secret Avenue Instytut Urody", "mail": ["#k...@secretavenue.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoieXIrc3lqOFRUTWdISXExb2llZ2dIOTcwckJ2UStIWFA3dU1pcHVIQ1JGUT0iO2k6MTtzOjE2OiLRrGUidDCdWjMXQPE7v/zMIjt9"]},
-{"title": "Studio kosmetyczne H&B MED", "mail": ["#c...@hbmed.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoia1FrYkxKaFhQN0FXOGRYS0lqN3dPditJb0xtTWFxMXhqUW5lZ0VyUDlSND0iO2k6MTtzOjE2OiI0OFrxk7GSWWMjvd7oZONxIjt9"]},
-{"title": "Dermedica Instytut Kosmetyki Lekarskiej", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kashmir SPA Malwina Markowska", "mail": ["#g...@kashmirspa.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMWtEQW5vNFp4WnQ0WDVBdTlnb3BVR1BIdWRQbUFDaFdrbWJLV3pvOUxzbz0iO2k6MTtzOjE2OiKr/hfISqwf6l9ojZjVqHnvIjt9"]},
-{"title": "Bio Nova", "mail": ["#k...@bionovagabinet.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiczVSSHZTK0w1K29XeExjQXpwcmtUbVJmMkxDSGlVNElZQVhCbFZGRFdEdz0iO2k6MTtzOjE2OiL3Ls6HnKGve1XBr01SFP+aIjt9"]},
-{"title": "Salon Lady Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Wellness", "mail": ["#m...@studio-wellness.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiVE1TdGg4MXRvRTlyODh3N1VyTnA1MCtreXNTS0ZwSUdSTkdVNytRYXdWbz0iO2k6MTtzOjE2OiJx4RG5X4viR7hHolBE2NfwIjt9"]},
-{"title": "Arcadia SPA", "mail": ["#a...@arcadiaspa.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoidS9oYWpic1hlS3pJM3EwYlVmTzZSNm55cFZBN2FwVWhOcUEyMHVBb09KZz0iO2k6MTtzOjE2OiIZtKl0IrLw0ZxXEa23SFFNIjt9"]},
-{"title": "Clinica Cosmetologica Sopot. Depilacja laserowa Kosmetologia", "mail": ["#i...@clinicacosmetologica.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibTVIWldiTFNmVERYSElaSVk0b0Fqbk1paktUcmxybmdvejdOdWhpMGpuaz0iO2k6MTtzOjE2OiJWK6DcVB7na1p+xFLbdQ6eIjt9"]},
-{"title": "Centrum Pi\u0119knego Cia\u0142a i Fryzur", "mail": ["#s...@centrumciala.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZlpjOEwzZE56VFozNzRxbHJGcG4yTTlPcmtINWRVcXkySmN4TE9tQ1ZEWT0iO2k6MTtzOjE2OiLU7olttQbPxEbjLij/blmwIjt9"]},
-{"title": "Instytut Urody Vivien", "mail": ["#v...@onet.eu"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiR1FvWU5NVVc1RjJ1OU9Zd3Z2V0lCTFFkelUyclVFbUpjWHQwbGcwazNDZz0iO2k6MTtzOjE2OiLg8z1wVFiSsnX8Ae5SCI9/Ijt9"]},
-{"title": "Salon Sopot", "mail": ["#r...@salonsopot.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiajdDUFZiWjdlU3Nob3RhaXlyWXE5bHZJc1ZUcTloeGtIRkE2STl0ekdMND0iO2k6MTtzOjE2OiKQyulqH4gqN/AZ6hX22lg0Ijt9"]},
-{"title": "Abacosun", "mail": ["#s...@abacosun.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiREJ6RlMxUlZybU5EZEN1QkI5UmtUM211Nlh3ekxQSFFyeklxTGxKMmNXOD0iO2k6MTtzOjE2OiJbh7VvTt2gXQiU7ek860zlIjt9"]},
-{"title": "Yasumi", "mail": ["#m...@yasumigdansk.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiY0hZNzF2aW1rbGVxOGVPNU8vN0JmZVdVZGJKUkZlOFNNWStHWUVVSkZSST0iO2k6MTtzOjE2OiLQKpRkKoa4Qj0+qW4mPhaKIjt9"]},
-{"title": "Sopocki Styl", "mail": ["#s...@stylsopot.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiSkJnRmJrMU9RMS9pSCtKVmVyS0hZaWpSc2UzNVU1YXkzYnkrMlh0U25VZz0iO2k6MTtzOjE2OiKq0cgWy8Ot7zwup0pnZb8HIjt9"]},
-{"title": "Salon La Mania", "mail": ["#k...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiY0N5eWhtNXl4KzNZcDNRYkhHNUxJdz09IjtpOjE7czoxNjoig96lDE19kHzvEpIKhk49PSI7fQ=="]},
-{"title": "Dalia 1", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Licencjonowany gabinet kosmetyczny", "mail": ["#i...@gabinet-gracja.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiQWc3TEtGd2NzaVo1TXhwNU16RjdyS3kxbWpvcjlsRWYzT012SHhFZjZJQT0iO2k6MTtzOjE2OiKQpFyfzT4KtvlkRKfczuvdIjt9"]},
-{"title": "Drausal Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Boutique", "mail": ["#m...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiNzRpZHNWVk94eEsra3VsVjZaQ0c5Zz09IjtpOjE7czoxNjoipLZydyXfTlqGVtX20PbYYSI7fQ=="]},
-{"title": "R\u00f3\u017ca von Mach", "mail": ["#r...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiVm4zVjZsVTJOOHdpWjRPK2hBT21KVkJxTDlCVWFqZGRCSjZDNE9OZEgxbz0iO2k6MTtzOjE2OiJGLpXF9jXqTXXBoxQqXkbUIjt9"]},
-{"title": "Centrum Zdrowia i Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Clinica Cosmetologica", "mail": ["#i...@clinicacosmetologica.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiR0huUDJpRjN6ODl6c3J1YXNYa2pvMVZScHo4bTEzOW9qbEZldERSUyt5RT0iO2k6MTtzOjE2OiJernLgCGw66YXvm4vmntaQIjt9"]},
-{"title": "Klinika Morena", "mail": ["#k...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiNEc2UnFFTllSRDU4T09oK21FRXJmOFZFSityTGpOay8zaVlOQ1VkUWUvRT0iO2k6MTtzOjE2OiJO8SprPecfjw7TwLhs+fPHIjt9"]},
-{"title": "Clinica Cosmetologica Gdynia Depilacja laserowa Kosmetologia", "mail": ["#g...@clinicacosmetologica.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoia09vcmpqVFY5bTFpRGhyZ0pGWWE4c3lYV2UvaTdSa2FJbktuZEFFMkF5cz0iO2k6MTtzOjE2OiJpsebtvUNZX/uKfzVkUhb+Ijt9"]},
-{"title": "Instytut Genesis", "mail": ["#g...@nadmorski.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUnNEVGVLYkd1cmFiT1VCRWhncDRiVm8za0dwdUJEbkdtWDhOTXdya3ZTYz0iO2k6MTtzOjE2OiIFTo6Y1UKUe123ShoEjz5fIjt9"]},
-{"title": "Yasumi Gda\u0144sk", "mail": ["#g...@yasumi.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiSitjSDhmSDFreHJCS1kyVXN4d1lPYS9tR3J1R1JYaG0vV1crNnhGVzhTUT0iO2k6MTtzOjE2OiIxwCtAU25Pv/7gY0F79YQFIjt9"]},
-{"title": "Yasumi", "mail": ["#s...@yasumi.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiRndpSHdwdjdtUVdIQ09lcUNEWndKZz09IjtpOjE7czoxNjoihYVm9YTJzMRhagwE/8gESyI7fQ=="]},
-{"title": "Bonis\u0142awskie Therapy", "mail": ["#b...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZWJHNnRrVElOQzV2VVhrMXVoVXFiMkgxNEhOQktmMVVRRmJOUitNR3d2cz0iO2k6MTtzOjE2OiI1iURpvwzkKLCA0HYF2YLJIjt9"]},
-{"title": "Vital Studio Zdrowia i Urody", "mail": ["#s...@studiovital.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMWFrbEo0MUZ1Y001QjV4YndsUzNiL2dPMkwyenQxdS9PTng2L3A1NkRtST0iO2k6MTtzOjE2OiJb7/uYGp8TkpADLesTpxozIjt9"]},
-{"title": "Lux Line", "mail": ["#k...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoid3dtTlM3TS9Cb1RvZm5KcEViTkhNUmtNbEdMNzVmUVJJMkFMbWdwb3B0VT0iO2k6MTtzOjE2OiI1AaeaxNp17+9i+WboYzNuIjt9"]},
-{"title": "Gabinet Trychologii", "mail": ["#m...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiSVRTSTROZkt0NVlyazEvdEY4QzVBbm0wRkYzK3ZyenlxTFF6bDBLYldJUT0iO2k6MTtzOjE2OiL8hklAoxpVVzvB8+ASDghPIjt9"]},
-{"title": "Akademia Magdaleny Wielgus", "mail": ["#m...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoidUlxWTB5eHUrR2I5UURKaldQYVN3VCtlT1ZLcVdRekJhMk9ETjZKcG9qND0iO2k6MTtzOjE2OiKCO9m+/8KY9qOU6yId6jiCIjt9"]},
-{"title": "BALOLA", "mail": ["#s...@balola.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiNWF3b0JseHR4dTQ1VU8yQmc4dTJRQT09IjtpOjE7czoxNjoi+v9xdsbIyNI7BxLurgMIWyI7fQ=="]},
-{"title": "Beautifulskin", "mail": ["#g...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZ3d4RGFaVWU1TWFEWW40a2VyUFNMWXUrMitjS3cyTEUrMm1Dbk9LMjlVdz0iO2k6MTtzOjE2OiLqpZhZZqpi8ds4VQzFyf8YIjt9"]},
-{"title": "BeautySpot", "mail": ["#k...@beauty-spot.com.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUGhhM2NtRDRaQ3JuUFB4andjUWdqU2J0c1JCTGJYbmVkUENENW41OHZzND0iO2k6MTtzOjE2OiICPv+282GOEgARR5CP98+jIjt9"]},
-{"title": "Cichy Design", "mail": ["#s...@cichydesign.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo2NDoiSkpqZ0FTOERzRzVZd2xHYTQvc1NTYWp6UlpUVzBTZlZHQzhOTzBTOHY4WFYvZFYwcGFpTDJZSC9KbmUrVHdyWCI7aToxO3M6MTY6IpMAze22rT3r/vmYo7+WvfIiO30="]},
-{"title": "COSMEO", "mail": ["#r...@op.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibmdZdFdja1o1L2lBbHZxMmt0NmlLMjUvWkQrNXJ1V2x4MFBDdE9scmF0UT0iO2k6MTtzOjE2OiKPgRIzyGjrqTybwNrKnv31Ijt9"]},
-{"title": "Instytut Urody Marzena Olszewska", "mail": ["#i...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiYWcveWRSdnhNSGlsSjFoQ2xGckR0eGwrTnZ6azRSakE5cjMyUEtPSUJKYz0iO2k6MTtzOjE2OiK5LGIJ8YR2Br32d87mrOo9Ijt9"]},
-{"title": "Kosmetyka Profesjonalna Przeciwb\u00f3lowy Masa\u017c Leczniczy", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Le Salon - La Biosthetique", "mail": ["#l...@alinapiragis.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoia1Q2bzNDN3hiaGhmWkRUNWxCRkxXL2ZtV2VrcUpYenVPaTR6VnpJdUsxQT0iO2k6MTtzOjE2OiKBQACpE3AY+3sl4BNucUwEIjt9"]},
-{"title": "Ma\u0142a Klinika Urody", "mail": ["#r...@malaklinikaurody.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibXJpdzFYQTY2aHpaL3Uzc2U0MnppZ1hCZG5tNVVMVXdmOUpyRk5TWjF1az0iO2k6MTtzOjE2OiJRj3Us9Xzrf0ruwgYZ66A9Ijt9"]},
-{"title": "Quadrille SPA", "mail": ["#s...@quadrille.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiRFNMTW5KKzNsVDFDU0QxZjdhWEdraGhEcytRQkFWM2czUTZCZ2VYRWgzZz0iO2k6MTtzOjE2OiLbkMcBybzV+I6WYHRfaVo0Ijt9"]},
-{"title": "Vanity Day Spa", "mail": ["#b...@vanityspa.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiK29JeURXOVdLVmlEa1dyMUFNd3ZJcTFHblpBMUxyTXRLRVloYjgrMTBrST0iO2k6MTtzOjE2OiJsMI9hYZgGnREK41OrKFxyIjt9"]},
-{"title": "Yasumi Gdynia", "mail": ["#g...@yasumi.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUEtkUWpDZ1dkRzYwREhNOFBqNXd5UFcxUUpDcVJYcU5waklFZEptcmdnYz0iO2k6MTtzOjE2OiLAffBpmMUTxFhcka9mtBVMIjt9"]},
-{"title": "Academia Urody", "mail": ["#k...@academiaurody.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiWGZVQWgyZGJyeFVIZzE3Vm5mSG5iYnJBQlhtRDZ6ZjF4a0dmQTB6QXUwcz0iO2k6MTtzOjE2OiL89gjY/NESXc4WMr++qNBlIjt9"]},
-{"title": "Alloa Studio Kosmetyki Naturalnej", "mail": ["#a...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiWGZQS3ZIOURmK2pzRjJEMGdBdWc1dz09IjtpOjE7czoxNjoikXmK3pQ02BcJgoeF98TfziI7fQ=="]},
-{"title": "Beauty Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "BlueBerry", "mail": ["#g...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibURTY25JcnJ3UXRURnROa09oMGJSeG1LRXlWeHBUMGtVbWF1VWt5UEljUT0iO2k6MTtzOjE2OiL33+QyDoFyxIvSr7ffeVhoIjt9"]},
-{"title": "Gabinet Kosmetologii", "mail": ["#k...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiWDRBOXc1Z3FMclBlNjlqb0UwbCtuckFkTnF2ZjdrZ1NXbGl3MFo3UTU1ND0iO2k6MTtzOjE2OiJlnTo3He1iN9+zicm6KuFiIjt9"]},
-{"title": "Gabinet Kosmetyczny 'EXCELLENCE'", "mail": ["#r...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiQ1ZucHJKQmQyY2FGZForbjhJUVprUT09IjtpOjE7czoxNjoi18ECIsd6cn+65/cJA2on8yI7fQ=="]},
-{"title": "Gabinet kosmetyczny 'Monika Bury'", "mail": ["#k...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiQzdxc1VTVHRDQVR4eG4yS2g0UjFSQWMyNlNhNXhwVll4b25JdW9yYStYUT0iO2k6MTtzOjE2OiKrPrEfuHinr+WSNoIyMNp4Ijt9"]},
-{"title": "Gabinet Kosmetyczny", "mail": ["#k...@gabinet-violastudio.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZkRjWDhmNEhvR3JoVTdMck0yemNHcmNFM2NVY3ZKZmdHUDFoRTV2QXliQT0iO2k6MTtzOjE2OiLW8rCNxkJDfu2lTmNWVRCDIjt9"]},
-{"title": "Gabinet Kosmetyki i Masa\u017cu", "mail": ["#k...@chello.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiQXUyMjlQRWl0SXQ2dHpPUFlnNTJyQzk5aHZza0VkVXRXSUxzNkdOa3FIbz0iO2k6MTtzOjE2OiL0ED1nBsmcgWnD7XNKgLrCIjt9"]},
-{"title": "Hevena Beauty", "mail": ["#i...@hevena.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiVmRtUlZrcy9YY1VCREhZN0x1ZUovUT09IjtpOjE7czoxNjois5UwZVSM/vh3NsUV82e3tCI7fQ=="]},
-{"title": "Klinika Urody MediKos", "mail": ["#k...@klinikamedikos.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiNXVZL0dZTTl6TDd5YnQ0UXJFVjhLWHJ3U1Z2NGVMY0ZjUEg2ZkxmZm5HUT0iO2k6MTtzOjE2OiJp8/Z+cJmLk+ITKatzRrVzIjt9"]},
-{"title": "Kosmetologia Profesjonalna Estetica", "mail": [], "data-type": [], "data-hash": []},
-{"title": "L'AMORAGE Beauty Club", "mail": ["#b...@elitservice.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiTEN3M0lXUTdtRGMweVo0NFpIajhiTGEvQzBvNzhSelJwbXZxZU50UStKZz0iO2k6MTtzOjE2OiKgJXTYRv0TpNtLeryA2EpiIjt9"]},
-{"title": "LA BEAUTE mgr Karolina Smyk", "mail": ["#l...@o2.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiM0hDYXZobkJOVml4MDB6WXlkd3JHdz09IjtpOjE7czoxNjoi7s61/Lg2UgcSRoW61iVnASI7fQ=="]},
-{"title": "Med Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Monika Sobieralska Estetica Expert & PMU", "mail": ["#m...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUEVGeUFzOFFRbUpiT21OSFN6RGFRN2VUblcrRGpRV2kxS0xyZnFMYjVOYz0iO2k6MTtzOjE2OiIH49xDCUyPZzKdLMfvFt5HIjt9"]},
-{"title": "Salon Alicja.", "mail": ["#p...@salonalicja.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoidW03YmFFMGdLZjYyTXF2MEtMeGVTajFRdHNibEFKZ1FpVENsU0lLc0ZjYz0iO2k6MTtzOjE2OiK1Uiud/haR8qz2lizLMIXqIjt9"]},
-{"title": "Salon Urody Mademoiselle", "mail": ["#w...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiWElOaW5GR1pya292UExmNnFpT0c4QT09IjtpOjE7czoxNjoix0S7CukLDZum7t/9bkQLgSI7fQ=="]},
-{"title": "Skinlab Gabinet Kosmetologii", "mail": ["#k...@skinlabgabinet.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMFRsOGRMUDc3TVAvY1JiSTlNTlc2NDlQUXBBbmVjTDRHZTgzNkQ2Vm1OYz0iO2k6MTtzOjE2OiKQND06miNv4BjJXB/AThkbIjt9"]},
-{"title": "Sopocka Akademia Urody", "mail": ["#k...@sopockaakademiaurody.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiNWNyS2piRVFiNlE5Z0NsU295SWRlNGlabXhoZTRSc1hBSE9scjd5OTZ6UT0iO2k6MTtzOjE2OiLByaJz9pG9GeQdT/0a6nNQIjt9"]},
-{"title": "Studio Isabell", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Wiza\u017cu", "mail": ["#s...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoib1pOSU9henBOYjVxdTd0dSthRTRvV3JIUHlkd3VNSFBJKzB0aVB1aWVtVT0iO2k6MTtzOjE2OiIdc0Yyo5V1/9lerHlcDwuQIjt9"]},
-{"title": "Zemsai day spa", "mail": ["#r...@zemsai.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiak9KUVBDNzZkV3AwR1JjSHBhYWFkdHljdnRuWjJwK012NkZYeHNRUE5sVT0iO2k6MTtzOjE2OiLuXhGKQZoZVOnj5f8SP6e3Ijt9"]},
-{"title": "Royal's Hair & Body", "mail": ["#s...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMmpZaGNPZzAxWllodVVkcDFTZkVtMDFWODk1NXkyQzlxbitiSDhObVJJQT0iO2k6MTtzOjE2OiJZ56OuMaxw4s38Nmey6U7wIjt9"]},
-{"title": "Plus Dla Urody", "mail": ["#p...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZlZUUEpaMm9CbFJBRjVGcWhON2dJaWJ4Vk1Td0ppeTNLSGVuTGhuWG5zZz0iO2k6MTtzOjE2OiKyI7IYS+ngxSoB/x4P5xDEIjt9"]},
-{"title": "O\u015brodek Medycyny Estetycznej", "mail": ["#o...@kuzniczki.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiWG14V0NhMUo0c21hR1lPYktmcU5wMmVDTWdxMFo5YTdoV2o4dUJPK2czRT0iO2k6MTtzOjE2OiJGRKmpW9p0DGtDJj4boz7XIjt9"]},
-{"title": "Medycyna Estetyczna Dr Marcin Nowak", "mail": ["#m...@yahoo.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUmtxMUFqTTdmQWN6WnJXamZ2Q2tyQjZ5K3BqaE9DYlVZbVNWNmlHMlVVND0iO2k6MTtzOjE2OiLCveOzk+Q4MgKyv+OENc6TIjt9"]},
-{"title": "PRIV\u00c9 Beauty & Hair", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Luxis", "mail": ["#g...@luxis.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiQUJNL25YRVhvd1Nab0lOOHZvNFFLNFpGMHdUcWtqRzVMN0xWT2tjQjAvTT0iO2k6MTtzOjE2OiLwErmAK69a0dlxhu7U/46nIjt9"]},
-{"title": "Face & Body Lab.", "mail": ["#f...@mail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoia0xMMFlhUTUzRWR0OEFENHVnT3pzQT09IjtpOjE7czoxNjoi4jThp5ydOnuEhtdbpDrW2CI7fQ=="]},
-{"title": "Karmel", "mail": ["#e...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoidGZqT3hkbHNmMk00M3dqRzZ6c25KU0Y2aGQ4cUFMNDFmdFoyNmVoMWl0bz0iO2k6MTtzOjE2OiJ9BznkZxDJxQAINCSY7T/gIjt9"]},
-{"title": "Make Up Your Mind", "mail": ["#m...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiSmtnNGJEYW0wam1nWjdOaGc0WkhHOFJJUGFydCtDTkw5b2xPVEZCRlZlOD0iO2k6MTtzOjE2OiIdCK8bD7z/2bczAJWBP8LSIjt9"]},
-{"title": "Marina Day Spa", "mail": ["#b...@marinadayspa.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiaDJWbnpXN2JFTDdSaG85VUltM21LUmRXYXhWb2FvR3pJSmlBL2s4SlBrWT0iO2k6MTtzOjE2OiJ1aNc677fTF/QpA+HnS7TIIjt9"]},
-{"title": "Na Mimi Om", "mail": ["#n...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiQXhEbVFUNFF6OTVEMTlrS01ybkJTQWtxbUV4VHluT25BUy9EZnU1eU1Laz0iO2k6MTtzOjE2OiJ6DhC81NBNv2BbbKWGwGtPIjt9"]},
-{"title": "PediKos Gabinet Podologiczny", "mail": ["#p...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMlJ2NGJ4Z3pSaVJueE5GeEI5T1RjMVRNUmFTWXBNanY5YzJsMHA0bTJYUT0iO2k6MTtzOjE2OiLokAdPErPLYWBaPLsrOEAvIjt9"]},
-{"title": "Chirurgia Plastyczna DD", "mail": ["#c...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZG1rRzUra1lzN0hyMTNJOHo2OGFLdkRkRHM1ZXdpRWd5b2ZNc1VybUJHQT0iO2k6MTtzOjE2OiLscavn+37rh7VMS7yH/5ciIjt9"]},
-{"title": "Instytut SPA & Wellness Hotelu Haffner", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Luxis", "mail": ["#g...@luxis.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiaTVLYmlxRmgwUlZxU2NlQ1dZcDFTc0lhZm5IWFBXa3FodC9jdW1tRG5hcz0iO2k6MTtzOjE2OiK8/cl4Mw27Rspz5XlJMbh3Ijt9"]},
-{"title": "Sheraton Sopot Spa", "mail": ["#s...@sheraton.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoieSs4TTJ5MHRNYUVQalpQWEplOUpJZURaYmllZGVBNHJRUWN4Q1JSVmtkdz0iO2k6MTtzOjE2OiJifAG5l9yWZ1Emq9Ig/Pi3Ijt9"]},
-{"title": "Est\u00e9e Med", "mail": ["#e...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiSWR3c3RKLzVpWHR0T0VHK1c3eHJMRlRsdEhUa1NRR1QrY0ViR1Npbkl0Yz0iO2k6MTtzOjE2OiJHucWLbpALNHjp03gOCHBIIjt9"]},
-{"title": "Klinika Gorszewska", "mail": ["#r...@klinikagorszewska.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoidU5sN0gwQ0pycHdycTY3bCtQWHZYOUVJYVNSWWJFSzVuL1FJY2VsWDZDMD0iO2k6MTtzOjE2OiJGNVwRbTsH7dU9+Q6BZy7lIjt9"]},
-{"title": "Prestige Beauty Spa", "mail": ["#k...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiRkF5Z3JGdlA3NU1lZHY4Qnl2VlU1YUVYMHpoRHk0bFBreEQ1MlBsbUhrWT0iO2k6MTtzOjE2OiK8ipX7bSEn6liYZULKvKivIjt9"]},
-{"title": "Studio kosmetyki profesjonalnej", "mail": ["#s...@op.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiMU5iSGxtVkdVYjhkMGdWUW0rditsRm5kZklzcEVCcDBjaWhwTEdpdURJcz0iO2k6MTtzOjE2OiIQgnRNcp4D3ZVeQh9owToaIjt9"]},
-{"title": "Anna Butowska", "mail": ["#e...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibW5KSHFmLzhTcGg4UFJubElRQWlBbjIwT24zYWsyUkExU0R0cmpoelFyaz0iO2k6MTtzOjE2OiLNEQbE/syIHB3mCNeRlHNiIjt9"]},
-{"title": "Beauty Derm Instytut", "mail": ["#g...@beautyderm.com.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiRHZJOWlSMXlmQUJQWXVuUTVIK1RMUWdCVlRQMXZoMkFyRkNQeTcrUEc0dz0iO2k6MTtzOjE2OiJdl6GwBg1lvGJXYjXr0zj4Ijt9"]},
-{"title": "Diamond Clinic", "mail": ["#r...@diamondclinic.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoieTlGc3g2cFRjbnpkMkdOYlNTbHExV3ZZeUhMcXN2OGliNHZQTHZjTVhoRT0iO2k6MTtzOjE2OiKmWdyOmVmatGRr1px2lXwnIjt9"]},
-{"title": "Ecosfera Centrum Podologii i Kosmetologii", "mail": ["#k...@ecosfera.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiNVBFdVFjcXM4bVgxTkN5bDU5eldjM0V6eDJUOWtOMzhEV3hlZjVUWnQwND0iO2k6MTtzOjE2OiKgH7/h/HjpKXf/pTgPKt05Ijt9"]},
-{"title": "Mulieres Hair & Body", "mail": ["#s...@mulieres.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiWjdIeVVTOXBOLzRheEM0MkVZTndPN0k5OWJ2dXRwb3JOdTBIdkN2MytoND0iO2k6MTtzOjE2OiINvX6NamDaR5GzFYpyWYMEIjt9"]},
-{"title": "OdNowa", "mail": ["#J...@o2.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoicE1YcXhsdTRrUXlBeEJCMCtuYWVrVEFVR3IreFJMUE1JaVErT1hXZXNvVT0iO2k6MTtzOjE2OiJT2FLyaEEnNaL4O5pFYnnLIjt9"]},
-{"title": "Salon Kosmetyczny 7th Heaven", "mail": ["#s...@onet.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoieHI0QjVvRzJQK1kwa2pwVTJRc1M2cVNQWUNUeUE5ckk5M2R6V25JVldqWT0iO2k6MTtzOjE2OiKSpHiZJIXAkx+fAaV/ow7yIjt9"]},
-{"title": "Sensuum fizjoterapia kosmetyka masa\u017c", "mail": ["#g...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZ1ZrbVZzeWU1S1NlMy8yVHR0WTJTY1ZMUXJXbEI0eXBLcjRmWk5YWjZqcz0iO2k6MTtzOjE2OiKyMJR4S7NAeOiyt07x6o2eIjt9"]},
-{"title": "Studio Urody Avignion", "mail": ["#w...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoidU1EbDlZcnJJZFR0UXVtTkRyZGpLdz09IjtpOjE7czoxNjoihrgy/h5ffETr6u23R0FVTSI7fQ=="]},
-{"title": "Studio Urody", "mail": ["#j...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiU1FvWmRRdXhHdG9kQitZY01iRVIxYWRVMVBzQnc3WXpqK0ZWK3lZZzNQcz0iO2k6MTtzOjE2OiKaJIQqvkrlooCLI/Cz5Cm/Ijt9"]},
-{"title": "Abacosun", "mail": ["#r...@abacosungdansk.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoicHE3ZWxubzJITUxKeEIwWGNCZDhWQjJLbXQ3azNnRkZSZVljenJoYmd5bz0iO2k6MTtzOjE2OiIGjjtppU5Il2lavHcw7afrIjt9"]},
-{"title": "BLUE SUN", "mail": ["#b...@op.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoielZlR0JSTjVsZFp4bGVMd3YrejNJdz09IjtpOjE7czoxNjoiAzzqGfLSoD7EWCPIduC1iSI7fQ=="]},
-{"title": "FACEBAR ACADEMY", "mail": ["#k...@facebar.com.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiUjVmSGFXYkt1TnlPcUhDRGRPVzU3NzdOQUkxVXZFNUw5b2RXUEU5RjVpVT0iO2k6MTtzOjE2OiI+eXlGWKRVX0P/SFLdMIJFIjt9"]},
-{"title": "Sopocka Fabryka Urody", "mail": ["#r...@sopockafabrykaurody.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo2NDoiT3p6Qis4MUpWejAyR3VORFZ4dFNoTVVkbzA5b0ZBVnBiZElKbVFQK3FEYlA3NFdFZGgwTHVra1ozbkpyY0k4ZiI7aToxO3M6MTY6IuboMnndCLiJrFexXX9Vw9oiO30="]},
-{"title": "Spa Osowa", "mail": ["#r...@spaosowa.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoibnJ5MnAwNHFCWVpHUWNDdWlDTGVJclFXNWt4aENZMVR3eDZaM2tsVndqQT0iO2k6MTtzOjE2OiIyJ6TtXVyn8usEqlTy90C3Ijt9"]},
-{"title": "Studio Urody Look", "mail": ["#S...@wp.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZFJBbWJxREtsTmRIQW82MW5RSjA2MXlMbmVnM3R4ekJlOEdETnUyZFNDcz0iO2k6MTtzOjE2OiIWcMGy7GtB5yyEh1E9WoxgIjt9"]},
-{"title": "Studio51", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Une Belle Peau", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum Zdrowia i Pi\u0119kna.", "mail": ["#i...@hbmed.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiSW9MU1FiL084YmtiNTdpUnBWeGkvQT09IjtpOjE7czoxNjoiNZs2MPImA6yW+rwu79TWbSI7fQ=="]},
-{"title": "Klinika Anti-Aging INVICTA", "mail": ["#r...@invicta.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiZE1ja3AxYmVDSjNGODhSdHVJWmFGY1RtM0RJZEJUSzJDWERqdkUxampoST0iO2k6MTtzOjE2OiKFNpJ4Im7gFf3HRu0LYe+wIjt9"]},
-{"title": "Makeup Artist", "mail": ["#n...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiN0tlbDYyUUNmbm1iT2NWU0xnclpRczhOU1BRT01GckhrZjBtZmdsN21vQT0iO2k6MTtzOjE2OiKUdAmxdOiwtuScSHmKG475Ijt9"]},
-{"title": "Synea Medical", "mail": ["#r...@synea.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiVS9SM1E0ZWhXdThrTnR6MG1mQkRHQzV0eE82dGFMME9SSDdFQjd0YUo4ND0iO2k6MTtzOjE2OiJywuUKdrJ2KsvpKAv1aw+5Ijt9"]},
-{"title": "MISI Fizjoterapia & SPA", "mail": ["#m...@gmail.com"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiNkV1emtyajNXTlpMN2EwZlZ1Z2IzRUpxTTBRRUVVZFMyOEtOanhXN2NGTT0iO2k6MTtzOjE2OiK2rmi01L1xxrxzzOyIVNE6Ijt9"]},
-{"title": "Derm-Estetyka", "mail": ["#g...@derm-estetyka.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czo0NDoiVlJlTFRTWkRUY2diN0RxTFN0OEpackxlVHBBcTFaM1FtQzR0cW9QcS9rND0iO2k6MTtzOjE2OiKzUkxL57Xz33wMgjxYB+gVIjt9"]},
-{"title": "OXO Luxury Spa", "mail": ["#s...@oxospa.pl"], "data-type": ["katalog"], "data-hash": ["YToyOntpOjA7czoyNDoiUlkweVVsMHE5NzNNQ1pXalFEZGlIZz09IjtpOjE7czoxNjoit0aQmMV1LXA64frb1H3ZhiI7fQ=="]},
-{"title": "123 Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "7th Heaven", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Abacosun Instytut Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Abacosun Osowa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Abacosun", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Adea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Afrykada", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Alabaster", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Aleksandra", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Aleksandra", "mail": [], "data-type": [], "data-hash": []},
-{"title": "AM Team Kosmetologia i Fryzjerstwo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "AMAKO Pracownia Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Amala", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Amelia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ametyst studio urody i masa\u017cu", "mail": [], "data-type": [], "data-hash": []},
-{"title": "amiamo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ancymon -", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Angel Of Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Anna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Anna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Aquaderma", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Arte", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Aspazja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Atelier Urody Wittig", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Audrey gabinet kosmetologiczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beaut\u00e9 magique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Bay", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Buffet", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Club", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Complex", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Expert", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Look", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Marine", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "BeBeauty&fit Clubs", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Bella Donna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Belle", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Belle Femme", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Bellezza Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Betty Blue", "mail": [], "data-type": [], "data-hash": []},
-{"title": "BeYOUtiful", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Body Mind", "mail": [], "data-type": [], "data-hash": []},
-{"title": "BohoBeauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Central Look", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum OdNova", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ciach", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Clinic", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Cosmedique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Danka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "DERMAYA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dermia Solution Kosmetologia Estetyczna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "DG Strefa Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "DIDI Diana Kucharska", "mail": [], "data-type": [], "data-hash": []},
-{"title": "DJK Zdrowie i Uroda", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dla Pani", "mail": [], "data-type": [], "data-hash": []},
-{"title": "DonSylviano", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dora", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dorota", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dorota", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dr. Hauschka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dubaj & Thalgo Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Duet kosmetyka & fryzjerstwo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "eBeautyLab", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Edit", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Egoiste Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Eksperci Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "ElanVital", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Elis", "mail": [], "data-type": [], "data-hash": []},
-{"title": "ELLE", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Emma", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Escentrik", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Essence salon kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estee Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estetic Studio Kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estetica", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estetique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estheticienne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Esthetique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Euforia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Euphoria", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ewka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fabryka Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fabryka Rz\u0119s", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fabulous", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Factory of Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fanaberia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fenix", "mail": [], "data-type": [], "data-hash": []},
-{"title": "For You Hair & MediSpa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet CAMIRA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczno - Podologiczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny  JL", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Alicja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Ambrozja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Beata", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Esti", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Gaja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny i Perfumeria", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny i Perfumeria", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Karoll", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Klara", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Kobieciarnia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny PANI", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyki Naturalnej", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyki Profesjonalnej", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Odnowy", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Urody Milagro", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Vena", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Galeria Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Glamour Salon Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Glamour", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Halina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Halina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Happy Face & Body", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Idylla Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Iga", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ikona Gabinet Kosmetyki Profesjonalnej i Wiza\u017cu", "mail": [], "data-type": [], "data-hash": []},
-{"title": "INNOVATION BEAUTY", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Pi\u0119kna JoaWoj", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Urody POR FAVOR", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Insytut urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Joanna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "K&G Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "K\u0105cik urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "K\u0105cik Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "K\u0105cik Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kamelia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kate Beauty Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Klinika Urody Sopot", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetolog", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetologia Karolina Pietkiewicz", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetologia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetologia Podologia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetomania", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka DermOna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka Justyna Wilczewska", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka Profesjonalna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka Profesjonalna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyka profesjonalna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kostania", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Krystyna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "LaFemme", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Laser line", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Laserina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Laura gabinet kosmetyczno- fryzjerski", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Layla beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Lea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Lidia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Looksus", "mail": [], "data-type": [], "data-hash": []},
-{"title": "LOUI Ambasador Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Luna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Mabecare Beauty & Massage", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Madam Naturel", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Madame", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Madame", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Madlen", "mail": [], "data-type": [], "data-hash": []},
-{"title": "MaestRia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Magia Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Magia urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Magnific Clinique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Majestat Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ma\u0142y raj", "mail": [], "data-type": [], "data-hash": []},
-{"title": "ManiaUrody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Manufaktura Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Martiel", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Medica-Link SPA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Medical Line Micropigmentation", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Metamorfoza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Metamorfoza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Metamorfoza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Metamorfozy Morena", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Mi\u0119dzy Dusz\u0105 a Cia\u0142em", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Mistika", "mail": [], "data-type": [], "data-hash": []},
-{"title": "MK Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "MM", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Moena", "mail": [], "data-type": [], "data-hash": []},
-{"title": "MonaEliza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Morski k\u0105cik", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Nadobne - kosmetologia, fizjoterapia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Narodziny Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Natural Salon & Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Naturmedicin", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Naturoterapia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Nefer", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Nefretete", "mail": [], "data-type": [], "data-hash": []},
-{"title": "NEW SKIN CLINIC", "mail": [], "data-type": [], "data-hash": []},
-{"title": "NIK ANA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "No i pi\u0119knie", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Novello", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Olivka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Oliwski Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Orchid Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Orchidea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pasja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Per\u0142a Lux", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Per\u0142a Studio Kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "PermanentMake-Up & Stylizacja Paznokci, Fryzjer", "mail": [], "data-type": [], "data-hash": []},
-{"title": "PHU Sonia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pi\u0119kna Ty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Piema", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pik", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Podo-Wax", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pracownia Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Prestige", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Prettiest Face", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Primavera", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Przystanek Pi\u0119kno", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Relaks", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Rituals", "mail": [], "data-type": [], "data-hash": []},
-{"title": "R\u00f3\u017ca", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Cancun", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Firmowy", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko - kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Kosmetyczny Ivona", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Kosmetyczny Petite Perle", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon kosmetyczny Visage & Glomour", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Uroda Park", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Abacosun", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody AnA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Beauty Dream", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Farfalla", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Joliesse", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Maska", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Maska", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Per\u0142a", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Per\u0142a", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Prestige", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Prestige No.1", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Przysta\u0144 Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody TopCosmet Premium Beauty House", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon zdrowia i urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salonik Fryzjersko-Kosmetyczny Ewa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salonik Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sandy SPA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Schody do Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Seacret Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Seaside Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Secret of Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sekret Urody Studio Kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sekrety Cery", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sense of Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sensi", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sensual Lady", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Siesta", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Si\u00f3dme Niebo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sjesta", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Skin", "mail": [], "data-type": [], "data-hash": []},
-{"title": "SPA na k\u00f3\u0142kach", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Spa Sopot", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Spameed", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Stenia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Strefa Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Botee Kosmetyka Podologia Barbara Koziara", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Feniks", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Fryzjerskie", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Gamma", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Jenny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Kosmetyczne Allure", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio kosmetyczne Karolina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Kosmetyczne Kashmir", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Kosmetyczno - Fryzjerskie Uroda", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Kosmetyczno-Fryzjerskie", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio kosmetyczno-fryzjerskie", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Natalia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio S", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio SBP", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody Bell", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio urody Glamour", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody la Beaut\u00e9", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody Maria Galland", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody Sunset", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody Sylvia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Zdrowia i Urody Rolletic", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Styl i Uroda", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sun And Beauty Make-Up Artis", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Sunset Centrum Opalania", "mail": [], "data-type": [], "data-hash": []},
-{"title": "SuperNova", "mail": [], "data-type": [], "data-hash": []},
-{"title": "SZEROKA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Szkolenia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Tintamare", "mail": [], "data-type": [], "data-hash": []},
-{"title": "TopCosmet", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Tw\u00f3j Salon", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Unique Look", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Us\u0142ugi kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Us\u0142ugi Kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Vanillia - Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wenus", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wenus Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wioleta", "mail": [], "data-type": [], "data-hash": []},
-{"title": "wSPAniale", "mail": [], "data-type": [], "data-hash": []},
-{"title": "XS-salon", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Your Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Zabiegi kwasem hialuronowym", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Zawsze Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Arkesia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Atelier Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Bakinka Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beaut\u00e9 Room", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty for Us", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Bellezza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "bodycia\u0142o Klinika Zdrowia i Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Carmen Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum Urody Magia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Easy", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Essence Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estetica", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estetica Expert Nails", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Evita", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet kosmetyczny Paris", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny YOKO", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny, Laboratorium Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Urody SELENA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Harmony", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Endolashes", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ivona", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kaszmir Ambasada Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Magia dotyku", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Miss Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Najlove Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Oasis Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pi\u0119kna i Bestia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pi\u0119kna Na Co Dzie\u0144", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pracownia Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Kosmetyczny Latika", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon urody Gabriel", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Lorien", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Oliwia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Spareda- Salon Pi\u0119kno\u015bci", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Strefa Czasu", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Kleopatra", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Sunlight", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Urody Babiniec", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Zdrowia i Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Venus", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Yasumi epil", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Adara", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Adikari", "mail": [], "data-type": [], "data-hash": []},
-{"title": "AJ Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Akademia Urody Olimp", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Allure Institute", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Amelia Sun", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Anna Kardzis", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Antonio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "AS Professional Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Atelier", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Atelier103", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Avangarda", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Baltiqa Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Baltiqa Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Baltiqa Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beata Salon", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Box Hair&Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Medical", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Place", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Secret", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Beauty Shop", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Belle Colour", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Body Shape Garden", "mail": [], "data-type": [], "data-hash": []},
-{"title": "BodyMed", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Cenote", "mail": [], "data-type": [], "data-hash": []},
-{"title": "CICHY/ DESIGN", "mail": [], "data-type": [], "data-hash": []},
-{"title": "ClinicaNova", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Crystal", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dana", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Diamond hair & beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dolce Vita Eksperci Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Dotyk Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Duet", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Duet", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Efi", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Elixir", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Elnes", "mail": [], "data-type": [], "data-hash": []},
-{"title": "En Face", "mail": [], "data-type": [], "data-hash": []},
-{"title": "en vogue - Perfect Hair", "mail": [], "data-type": [], "data-hash": []},
-{"title": "EPI-Centrum", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Estela", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fabryka urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Fitness Klub Marlet", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Gabinet Kosmetyczny Dimelo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Galeria Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Grzebyk i Sp\u00f3\u0142ka", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Hair Design", "mail": [], "data-type": [], "data-hash": []},
-{"title": "IMAGE", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Innovea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Kosmetologii", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Instytut Spa & Wellness Venice", "mail": [], "data-type": [], "data-hash": []},
-{"title": "In\u017cynieria Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Jacques Andre Hair & SPA", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Joel", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Joliesse", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kinga", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Kosmetyczny Instytut Dr Irena Eris", "mail": [], "data-type": [], "data-hash": []},
-{"title": "L'\u00e9l\u00e9gance Instytut Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "La Bella Lounge", "mail": [], "data-type": [], "data-hash": []},
-{"title": "La Perla", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Lalea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Le Petit Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Long life", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Madellaina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Magia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Makija\u017c Permanentny / Mikropigmentacja", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Makija\u017c Permanentny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Medica Cosmetics", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Medica Cosmetics", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Milenium", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Moments Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Mystique", "mail": [], "data-type": [], "data-hash": []},
-{"title": "New Estetica", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Nice Med", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Oaza Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "OdNova", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ona & On", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Park Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Paula Roccialli", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pedive gabinet podologiczno-kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Permanent make up by Sara Sowa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pi\u0119kna sk\u00f3ra", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pi\u0119kno PL", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Planeta Styl", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pracownia by Izabella", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pracownia Fryzjersko-Kosmetyczna SHINE", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Przysta\u0144 Kobieco\u015bci & MasuYou", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Punkt Uroda", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Ramona", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Coco", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjerski Effect", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjerski Eleni", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjerski Macias", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko - kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko - kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko - kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko Kosmetyczny Kabat", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny Letta", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko-kosmetyczny Po\u0142om", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko-kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko-kosmetyczny WENUS", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon kosmetyczno-fryzjerski", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon kosmetyczny Orchidea", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon MM", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Tillo", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Merilyn", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Nowa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Urody Viva", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salony Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "So Glam", "mail": [], "data-type": [], "data-hash": []},
-{"title": "SPA Sentoza", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Strefa Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio 01", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio 82", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Anny Lisewskiej", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio fryzjersko-kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio fryzjersko-kosmetyczne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Fryzur Emilia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Fryzur i Urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Gwiazd", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Hanna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio kosmetyki profesjonalnej", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Marina", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Natura", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Retro", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio urody Rituals", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Taida Niklas Lash Collections", "mail": [], "data-type": [], "data-hash": []},
-{"title": "U Dorki", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Underground Fryzjerstwo Kreatywne", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Veoli Clinic", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wariacje Pi\u0119kna", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wax Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wax Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Wega", "mail": [], "data-type": [], "data-hash": []},
-{"title": "WM Studio", "mail": [], "data-type": [], "data-hash": []},
-{"title": "You and Beauty", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Zak\u0105tek urody", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Akademia Przyjemno\u015bci", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Baltiqa Day Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Euforia", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Galeria Fryzur Artystycznych", "mail": [], "data-type": [], "data-hash": []},
-{"title": "MalluArt", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Nouva Vita", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Pudrowy", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon Fryzjersko-Kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Salon fryzjersko-kosmetyczny", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Secret Med Spa", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Studio Wiza\u017cu i Kosmetyki", "mail": [], "data-type": [], "data-hash": []},
-{"title": "Centrum Odm\u0142adzania", "mail": [], "data-type": [], "data-hash": []},
-{"title": "ReNew Institute", "mail": [], "data-type": [], "data-hash": []}
+  {
+    "title": "Instytut Zdrowia i Urody 'La Peri'",
+    "mail": [
+      "#k...@onet.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiWlM2NnVpL25MaDFNWTNjRHY5clB1Q2ZjSldoY3JoMzRXb3Y3Nk9YSCtmWT0iO2k6MTtzOjE2OiLerm+iGnNxFDnWyohHP8MrIjt9"
+    ]
+  },
+  {
+    "title": "Secret Avenue Instytut Urody",
+    "mail": [
+      "#k...@secretavenue.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoieXIrc3lqOFRUTWdISXExb2llZ2dIOTcwckJ2UStIWFA3dU1pcHVIQ1JGUT0iO2k6MTtzOjE2OiLRrGUidDCdWjMXQPE7v/zMIjt9"
+    ]
+  },
+  {
+    "title": "Studio kosmetyczne H&B MED",
+    "mail": [
+      "#c...@hbmed.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoia1FrYkxKaFhQN0FXOGRYS0lqN3dPditJb0xtTWFxMXhqUW5lZ0VyUDlSND0iO2k6MTtzOjE2OiI0OFrxk7GSWWMjvd7oZONxIjt9"
+    ]
+  },
+  {
+    "title": "Dermedica Instytut Kosmetyki Lekarskiej",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kashmir SPA Malwina Markowska",
+    "mail": [
+      "#g...@kashmirspa.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMWtEQW5vNFp4WnQ0WDVBdTlnb3BVR1BIdWRQbUFDaFdrbWJLV3pvOUxzbz0iO2k6MTtzOjE2OiKr/hfISqwf6l9ojZjVqHnvIjt9"
+    ]
+  },
+  {
+    "title": "Bio Nova",
+    "mail": [
+      "#k...@bionovagabinet.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiczVSSHZTK0w1K29XeExjQXpwcmtUbVJmMkxDSGlVNElZQVhCbFZGRFdEdz0iO2k6MTtzOjE2OiL3Ls6HnKGve1XBr01SFP+aIjt9"
+    ]
+  },
+  {
+    "title": "Salon Lady Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Wellness",
+    "mail": [
+      "#m...@studio-wellness.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiVE1TdGg4MXRvRTlyODh3N1VyTnA1MCtreXNTS0ZwSUdSTkdVNytRYXdWbz0iO2k6MTtzOjE2OiJx4RG5X4viR7hHolBE2NfwIjt9"
+    ]
+  },
+  {
+    "title": "Arcadia SPA",
+    "mail": [
+      "#a...@arcadiaspa.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoidS9oYWpic1hlS3pJM3EwYlVmTzZSNm55cFZBN2FwVWhOcUEyMHVBb09KZz0iO2k6MTtzOjE2OiIZtKl0IrLw0ZxXEa23SFFNIjt9"
+    ]
+  },
+  {
+    "title": "Clinica Cosmetologica Sopot. Depilacja laserowa Kosmetologia",
+    "mail": [
+      "#i...@clinicacosmetologica.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibTVIWldiTFNmVERYSElaSVk0b0Fqbk1paktUcmxybmdvejdOdWhpMGpuaz0iO2k6MTtzOjE2OiJWK6DcVB7na1p+xFLbdQ6eIjt9"
+    ]
+  },
+  {
+    "title": "Centrum Pi\u0119knego Cia\u0142a i Fryzur",
+    "mail": [
+      "#s...@centrumciala.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZlpjOEwzZE56VFozNzRxbHJGcG4yTTlPcmtINWRVcXkySmN4TE9tQ1ZEWT0iO2k6MTtzOjE2OiLU7olttQbPxEbjLij/blmwIjt9"
+    ]
+  },
+  {
+    "title": "Instytut Urody Vivien",
+    "mail": [
+      "#v...@onet.eu"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiR1FvWU5NVVc1RjJ1OU9Zd3Z2V0lCTFFkelUyclVFbUpjWHQwbGcwazNDZz0iO2k6MTtzOjE2OiLg8z1wVFiSsnX8Ae5SCI9/Ijt9"
+    ]
+  },
+  {
+    "title": "Salon Sopot",
+    "mail": [
+      "#r...@salonsopot.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiajdDUFZiWjdlU3Nob3RhaXlyWXE5bHZJc1ZUcTloeGtIRkE2STl0ekdMND0iO2k6MTtzOjE2OiKQyulqH4gqN/AZ6hX22lg0Ijt9"
+    ]
+  },
+  {
+    "title": "Abacosun",
+    "mail": [
+      "#s...@abacosun.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiREJ6RlMxUlZybU5EZEN1QkI5UmtUM211Nlh3ekxQSFFyeklxTGxKMmNXOD0iO2k6MTtzOjE2OiJbh7VvTt2gXQiU7ek860zlIjt9"
+    ]
+  },
+  {
+    "title": "Yasumi",
+    "mail": [
+      "#m...@yasumigdansk.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiY0hZNzF2aW1rbGVxOGVPNU8vN0JmZVdVZGJKUkZlOFNNWStHWUVVSkZSST0iO2k6MTtzOjE2OiLQKpRkKoa4Qj0+qW4mPhaKIjt9"
+    ]
+  },
+  {
+    "title": "Sopocki Styl",
+    "mail": [
+      "#s...@stylsopot.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiSkJnRmJrMU9RMS9pSCtKVmVyS0hZaWpSc2UzNVU1YXkzYnkrMlh0U25VZz0iO2k6MTtzOjE2OiKq0cgWy8Ot7zwup0pnZb8HIjt9"
+    ]
+  },
+  {
+    "title": "Salon La Mania",
+    "mail": [
+      "#k...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiY0N5eWhtNXl4KzNZcDNRYkhHNUxJdz09IjtpOjE7czoxNjoig96lDE19kHzvEpIKhk49PSI7fQ=="
+    ]
+  },
+  {
+    "title": "Dalia 1",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Licencjonowany gabinet kosmetyczny",
+    "mail": [
+      "#i...@gabinet-gracja.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiQWc3TEtGd2NzaVo1TXhwNU16RjdyS3kxbWpvcjlsRWYzT012SHhFZjZJQT0iO2k6MTtzOjE2OiKQpFyfzT4KtvlkRKfczuvdIjt9"
+    ]
+  },
+  {
+    "title": "Drausal Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Boutique",
+    "mail": [
+      "#m...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiNzRpZHNWVk94eEsra3VsVjZaQ0c5Zz09IjtpOjE7czoxNjoipLZydyXfTlqGVtX20PbYYSI7fQ=="
+    ]
+  },
+  {
+    "title": "R\u00f3\u017ca von Mach",
+    "mail": [
+      "#r...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiVm4zVjZsVTJOOHdpWjRPK2hBT21KVkJxTDlCVWFqZGRCSjZDNE9OZEgxbz0iO2k6MTtzOjE2OiJGLpXF9jXqTXXBoxQqXkbUIjt9"
+    ]
+  },
+  {
+    "title": "Centrum Zdrowia i Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Clinica Cosmetologica",
+    "mail": [
+      "#i...@clinicacosmetologica.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiR0huUDJpRjN6ODl6c3J1YXNYa2pvMVZScHo4bTEzOW9qbEZldERSUyt5RT0iO2k6MTtzOjE2OiJernLgCGw66YXvm4vmntaQIjt9"
+    ]
+  },
+  {
+    "title": "Klinika Morena",
+    "mail": [
+      "#k...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiNEc2UnFFTllSRDU4T09oK21FRXJmOFZFSityTGpOay8zaVlOQ1VkUWUvRT0iO2k6MTtzOjE2OiJO8SprPecfjw7TwLhs+fPHIjt9"
+    ]
+  },
+  {
+    "title": "Clinica Cosmetologica Gdynia Depilacja laserowa Kosmetologia",
+    "mail": [
+      "#g...@clinicacosmetologica.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoia09vcmpqVFY5bTFpRGhyZ0pGWWE4c3lYV2UvaTdSa2FJbktuZEFFMkF5cz0iO2k6MTtzOjE2OiJpsebtvUNZX/uKfzVkUhb+Ijt9"
+    ]
+  },
+  {
+    "title": "Instytut Genesis",
+    "mail": [
+      "#g...@nadmorski.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUnNEVGVLYkd1cmFiT1VCRWhncDRiVm8za0dwdUJEbkdtWDhOTXdya3ZTYz0iO2k6MTtzOjE2OiIFTo6Y1UKUe123ShoEjz5fIjt9"
+    ]
+  },
+  {
+    "title": "Yasumi Gda\u0144sk",
+    "mail": [
+      "#g...@yasumi.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiSitjSDhmSDFreHJCS1kyVXN4d1lPYS9tR3J1R1JYaG0vV1crNnhGVzhTUT0iO2k6MTtzOjE2OiIxwCtAU25Pv/7gY0F79YQFIjt9"
+    ]
+  },
+  {
+    "title": "Yasumi",
+    "mail": [
+      "#s...@yasumi.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiRndpSHdwdjdtUVdIQ09lcUNEWndKZz09IjtpOjE7czoxNjoihYVm9YTJzMRhagwE/8gESyI7fQ=="
+    ]
+  },
+  {
+    "title": "Bonis\u0142awskie Therapy",
+    "mail": [
+      "#b...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZWJHNnRrVElOQzV2VVhrMXVoVXFiMkgxNEhOQktmMVVRRmJOUitNR3d2cz0iO2k6MTtzOjE2OiI1iURpvwzkKLCA0HYF2YLJIjt9"
+    ]
+  },
+  {
+    "title": "Vital Studio Zdrowia i Urody",
+    "mail": [
+      "#s...@studiovital.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMWFrbEo0MUZ1Y001QjV4YndsUzNiL2dPMkwyenQxdS9PTng2L3A1NkRtST0iO2k6MTtzOjE2OiJb7/uYGp8TkpADLesTpxozIjt9"
+    ]
+  },
+  {
+    "title": "Lux Line",
+    "mail": [
+      "#k...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoid3dtTlM3TS9Cb1RvZm5KcEViTkhNUmtNbEdMNzVmUVJJMkFMbWdwb3B0VT0iO2k6MTtzOjE2OiI1AaeaxNp17+9i+WboYzNuIjt9"
+    ]
+  },
+  {
+    "title": "Gabinet Trychologii",
+    "mail": [
+      "#m...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiSVRTSTROZkt0NVlyazEvdEY4QzVBbm0wRkYzK3ZyenlxTFF6bDBLYldJUT0iO2k6MTtzOjE2OiL8hklAoxpVVzvB8+ASDghPIjt9"
+    ]
+  },
+  {
+    "title": "Akademia Magdaleny Wielgus",
+    "mail": [
+      "#m...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoidUlxWTB5eHUrR2I5UURKaldQYVN3VCtlT1ZLcVdRekJhMk9ETjZKcG9qND0iO2k6MTtzOjE2OiKCO9m+/8KY9qOU6yId6jiCIjt9"
+    ]
+  },
+  {
+    "title": "BALOLA",
+    "mail": [
+      "#s...@balola.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiNWF3b0JseHR4dTQ1VU8yQmc4dTJRQT09IjtpOjE7czoxNjoi+v9xdsbIyNI7BxLurgMIWyI7fQ=="
+    ]
+  },
+  {
+    "title": "Beautifulskin",
+    "mail": [
+      "#g...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZ3d4RGFaVWU1TWFEWW40a2VyUFNMWXUrMitjS3cyTEUrMm1Dbk9LMjlVdz0iO2k6MTtzOjE2OiLqpZhZZqpi8ds4VQzFyf8YIjt9"
+    ]
+  },
+  {
+    "title": "BeautySpot",
+    "mail": [
+      "#k...@beauty-spot.com.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUGhhM2NtRDRaQ3JuUFB4andjUWdqU2J0c1JCTGJYbmVkUENENW41OHZzND0iO2k6MTtzOjE2OiICPv+282GOEgARR5CP98+jIjt9"
+    ]
+  },
+  {
+    "title": "Cichy Design",
+    "mail": [
+      "#s...@cichydesign.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo2NDoiSkpqZ0FTOERzRzVZd2xHYTQvc1NTYWp6UlpUVzBTZlZHQzhOTzBTOHY4WFYvZFYwcGFpTDJZSC9KbmUrVHdyWCI7aToxO3M6MTY6IpMAze22rT3r/vmYo7+WvfIiO30="
+    ]
+  },
+  {
+    "title": "COSMEO",
+    "mail": [
+      "#r...@op.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibmdZdFdja1o1L2lBbHZxMmt0NmlLMjUvWkQrNXJ1V2x4MFBDdE9scmF0UT0iO2k6MTtzOjE2OiKPgRIzyGjrqTybwNrKnv31Ijt9"
+    ]
+  },
+  {
+    "title": "Instytut Urody Marzena Olszewska",
+    "mail": [
+      "#i...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiYWcveWRSdnhNSGlsSjFoQ2xGckR0eGwrTnZ6azRSakE5cjMyUEtPSUJKYz0iO2k6MTtzOjE2OiK5LGIJ8YR2Br32d87mrOo9Ijt9"
+    ]
+  },
+  {
+    "title": "Kosmetyka Profesjonalna Przeciwb\u00f3lowy Masa\u017c Leczniczy",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Le Salon - La Biosthetique",
+    "mail": [
+      "#l...@alinapiragis.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoia1Q2bzNDN3hiaGhmWkRUNWxCRkxXL2ZtV2VrcUpYenVPaTR6VnpJdUsxQT0iO2k6MTtzOjE2OiKBQACpE3AY+3sl4BNucUwEIjt9"
+    ]
+  },
+  {
+    "title": "Ma\u0142a Klinika Urody",
+    "mail": [
+      "#r...@malaklinikaurody.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibXJpdzFYQTY2aHpaL3Uzc2U0MnppZ1hCZG5tNVVMVXdmOUpyRk5TWjF1az0iO2k6MTtzOjE2OiJRj3Us9Xzrf0ruwgYZ66A9Ijt9"
+    ]
+  },
+  {
+    "title": "Quadrille SPA",
+    "mail": [
+      "#s...@quadrille.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiRFNMTW5KKzNsVDFDU0QxZjdhWEdraGhEcytRQkFWM2czUTZCZ2VYRWgzZz0iO2k6MTtzOjE2OiLbkMcBybzV+I6WYHRfaVo0Ijt9"
+    ]
+  },
+  {
+    "title": "Vanity Day Spa",
+    "mail": [
+      "#b...@vanityspa.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiK29JeURXOVdLVmlEa1dyMUFNd3ZJcTFHblpBMUxyTXRLRVloYjgrMTBrST0iO2k6MTtzOjE2OiJsMI9hYZgGnREK41OrKFxyIjt9"
+    ]
+  },
+  {
+    "title": "Yasumi Gdynia",
+    "mail": [
+      "#g...@yasumi.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUEtkUWpDZ1dkRzYwREhNOFBqNXd5UFcxUUpDcVJYcU5waklFZEptcmdnYz0iO2k6MTtzOjE2OiLAffBpmMUTxFhcka9mtBVMIjt9"
+    ]
+  },
+  {
+    "title": "Academia Urody",
+    "mail": [
+      "#k...@academiaurody.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiWGZVQWgyZGJyeFVIZzE3Vm5mSG5iYnJBQlhtRDZ6ZjF4a0dmQTB6QXUwcz0iO2k6MTtzOjE2OiL89gjY/NESXc4WMr++qNBlIjt9"
+    ]
+  },
+  {
+    "title": "Alloa Studio Kosmetyki Naturalnej",
+    "mail": [
+      "#a...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiWGZQS3ZIOURmK2pzRjJEMGdBdWc1dz09IjtpOjE7czoxNjoikXmK3pQ02BcJgoeF98TfziI7fQ=="
+    ]
+  },
+  {
+    "title": "Beauty Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "BlueBerry",
+    "mail": [
+      "#g...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibURTY25JcnJ3UXRURnROa09oMGJSeG1LRXlWeHBUMGtVbWF1VWt5UEljUT0iO2k6MTtzOjE2OiL33+QyDoFyxIvSr7ffeVhoIjt9"
+    ]
+  },
+  {
+    "title": "Gabinet Kosmetologii",
+    "mail": [
+      "#k...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiWDRBOXc1Z3FMclBlNjlqb0UwbCtuckFkTnF2ZjdrZ1NXbGl3MFo3UTU1ND0iO2k6MTtzOjE2OiJlnTo3He1iN9+zicm6KuFiIjt9"
+    ]
+  },
+  {
+    "title": "Gabinet Kosmetyczny 'EXCELLENCE'",
+    "mail": [
+      "#r...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiQ1ZucHJKQmQyY2FGZForbjhJUVprUT09IjtpOjE7czoxNjoi18ECIsd6cn+65/cJA2on8yI7fQ=="
+    ]
+  },
+  {
+    "title": "Gabinet kosmetyczny 'Monika Bury'",
+    "mail": [
+      "#k...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiQzdxc1VTVHRDQVR4eG4yS2g0UjFSQWMyNlNhNXhwVll4b25JdW9yYStYUT0iO2k6MTtzOjE2OiKrPrEfuHinr+WSNoIyMNp4Ijt9"
+    ]
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [
+      "#k...@gabinet-violastudio.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZkRjWDhmNEhvR3JoVTdMck0yemNHcmNFM2NVY3ZKZmdHUDFoRTV2QXliQT0iO2k6MTtzOjE2OiLW8rCNxkJDfu2lTmNWVRCDIjt9"
+    ]
+  },
+  {
+    "title": "Gabinet Kosmetyki i Masa\u017cu",
+    "mail": [
+      "#k...@chello.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiQXUyMjlQRWl0SXQ2dHpPUFlnNTJyQzk5aHZza0VkVXRXSUxzNkdOa3FIbz0iO2k6MTtzOjE2OiL0ED1nBsmcgWnD7XNKgLrCIjt9"
+    ]
+  },
+  {
+    "title": "Hevena Beauty",
+    "mail": [
+      "#i...@hevena.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiVmRtUlZrcy9YY1VCREhZN0x1ZUovUT09IjtpOjE7czoxNjois5UwZVSM/vh3NsUV82e3tCI7fQ=="
+    ]
+  },
+  {
+    "title": "Klinika Urody MediKos",
+    "mail": [
+      "#k...@klinikamedikos.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiNXVZL0dZTTl6TDd5YnQ0UXJFVjhLWHJ3U1Z2NGVMY0ZjUEg2ZkxmZm5HUT0iO2k6MTtzOjE2OiJp8/Z+cJmLk+ITKatzRrVzIjt9"
+    ]
+  },
+  {
+    "title": "Kosmetologia Profesjonalna Estetica",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "L'AMORAGE Beauty Club",
+    "mail": [
+      "#b...@elitservice.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiTEN3M0lXUTdtRGMweVo0NFpIajhiTGEvQzBvNzhSelJwbXZxZU50UStKZz0iO2k6MTtzOjE2OiKgJXTYRv0TpNtLeryA2EpiIjt9"
+    ]
+  },
+  {
+    "title": "LA BEAUTE mgr Karolina Smyk",
+    "mail": [
+      "#l...@o2.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiM0hDYXZobkJOVml4MDB6WXlkd3JHdz09IjtpOjE7czoxNjoi7s61/Lg2UgcSRoW61iVnASI7fQ=="
+    ]
+  },
+  {
+    "title": "Med Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Monika Sobieralska Estetica Expert & PMU",
+    "mail": [
+      "#m...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUEVGeUFzOFFRbUpiT21OSFN6RGFRN2VUblcrRGpRV2kxS0xyZnFMYjVOYz0iO2k6MTtzOjE2OiIH49xDCUyPZzKdLMfvFt5HIjt9"
+    ]
+  },
+  {
+    "title": "Salon Alicja.",
+    "mail": [
+      "#p...@salonalicja.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoidW03YmFFMGdLZjYyTXF2MEtMeGVTajFRdHNibEFKZ1FpVENsU0lLc0ZjYz0iO2k6MTtzOjE2OiK1Uiud/haR8qz2lizLMIXqIjt9"
+    ]
+  },
+  {
+    "title": "Salon Urody Mademoiselle",
+    "mail": [
+      "#w...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiWElOaW5GR1pya292UExmNnFpT0c4QT09IjtpOjE7czoxNjoix0S7CukLDZum7t/9bkQLgSI7fQ=="
+    ]
+  },
+  {
+    "title": "Skinlab Gabinet Kosmetologii",
+    "mail": [
+      "#k...@skinlabgabinet.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMFRsOGRMUDc3TVAvY1JiSTlNTlc2NDlQUXBBbmVjTDRHZTgzNkQ2Vm1OYz0iO2k6MTtzOjE2OiKQND06miNv4BjJXB/AThkbIjt9"
+    ]
+  },
+  {
+    "title": "Sopocka Akademia Urody",
+    "mail": [
+      "#k...@sopockaakademiaurody.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiNWNyS2piRVFiNlE5Z0NsU295SWRlNGlabXhoZTRSc1hBSE9scjd5OTZ6UT0iO2k6MTtzOjE2OiLByaJz9pG9GeQdT/0a6nNQIjt9"
+    ]
+  },
+  {
+    "title": "Studio Isabell",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Wiza\u017cu",
+    "mail": [
+      "#s...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoib1pOSU9henBOYjVxdTd0dSthRTRvV3JIUHlkd3VNSFBJKzB0aVB1aWVtVT0iO2k6MTtzOjE2OiIdc0Yyo5V1/9lerHlcDwuQIjt9"
+    ]
+  },
+  {
+    "title": "Zemsai day spa",
+    "mail": [
+      "#r...@zemsai.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiak9KUVBDNzZkV3AwR1JjSHBhYWFkdHljdnRuWjJwK012NkZYeHNRUE5sVT0iO2k6MTtzOjE2OiLuXhGKQZoZVOnj5f8SP6e3Ijt9"
+    ]
+  },
+  {
+    "title": "Royal's Hair & Body",
+    "mail": [
+      "#s...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMmpZaGNPZzAxWllodVVkcDFTZkVtMDFWODk1NXkyQzlxbitiSDhObVJJQT0iO2k6MTtzOjE2OiJZ56OuMaxw4s38Nmey6U7wIjt9"
+    ]
+  },
+  {
+    "title": "Plus Dla Urody",
+    "mail": [
+      "#p...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZlZUUEpaMm9CbFJBRjVGcWhON2dJaWJ4Vk1Td0ppeTNLSGVuTGhuWG5zZz0iO2k6MTtzOjE2OiKyI7IYS+ngxSoB/x4P5xDEIjt9"
+    ]
+  },
+  {
+    "title": "O\u015brodek Medycyny Estetycznej",
+    "mail": [
+      "#o...@kuzniczki.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiWG14V0NhMUo0c21hR1lPYktmcU5wMmVDTWdxMFo5YTdoV2o4dUJPK2czRT0iO2k6MTtzOjE2OiJGRKmpW9p0DGtDJj4boz7XIjt9"
+    ]
+  },
+  {
+    "title": "Medycyna Estetyczna Dr Marcin Nowak",
+    "mail": [
+      "#m...@yahoo.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUmtxMUFqTTdmQWN6WnJXamZ2Q2tyQjZ5K3BqaE9DYlVZbVNWNmlHMlVVND0iO2k6MTtzOjE2OiLCveOzk+Q4MgKyv+OENc6TIjt9"
+    ]
+  },
+  {
+    "title": "PRIV\u00c9 Beauty & Hair",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Luxis",
+    "mail": [
+      "#g...@luxis.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiQUJNL25YRVhvd1Nab0lOOHZvNFFLNFpGMHdUcWtqRzVMN0xWT2tjQjAvTT0iO2k6MTtzOjE2OiLwErmAK69a0dlxhu7U/46nIjt9"
+    ]
+  },
+  {
+    "title": "Face & Body Lab.",
+    "mail": [
+      "#f...@mail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoia0xMMFlhUTUzRWR0OEFENHVnT3pzQT09IjtpOjE7czoxNjoi4jThp5ydOnuEhtdbpDrW2CI7fQ=="
+    ]
+  },
+  {
+    "title": "Karmel",
+    "mail": [
+      "#e...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoidGZqT3hkbHNmMk00M3dqRzZ6c25KU0Y2aGQ4cUFMNDFmdFoyNmVoMWl0bz0iO2k6MTtzOjE2OiJ9BznkZxDJxQAINCSY7T/gIjt9"
+    ]
+  },
+  {
+    "title": "Make Up Your Mind",
+    "mail": [
+      "#m...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiSmtnNGJEYW0wam1nWjdOaGc0WkhHOFJJUGFydCtDTkw5b2xPVEZCRlZlOD0iO2k6MTtzOjE2OiIdCK8bD7z/2bczAJWBP8LSIjt9"
+    ]
+  },
+  {
+    "title": "Marina Day Spa",
+    "mail": [
+      "#b...@marinadayspa.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiaDJWbnpXN2JFTDdSaG85VUltM21LUmRXYXhWb2FvR3pJSmlBL2s4SlBrWT0iO2k6MTtzOjE2OiJ1aNc677fTF/QpA+HnS7TIIjt9"
+    ]
+  },
+  {
+    "title": "Na Mimi Om",
+    "mail": [
+      "#n...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiQXhEbVFUNFF6OTVEMTlrS01ybkJTQWtxbUV4VHluT25BUy9EZnU1eU1Laz0iO2k6MTtzOjE2OiJ6DhC81NBNv2BbbKWGwGtPIjt9"
+    ]
+  },
+  {
+    "title": "PediKos Gabinet Podologiczny",
+    "mail": [
+      "#p...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMlJ2NGJ4Z3pSaVJueE5GeEI5T1RjMVRNUmFTWXBNanY5YzJsMHA0bTJYUT0iO2k6MTtzOjE2OiLokAdPErPLYWBaPLsrOEAvIjt9"
+    ]
+  },
+  {
+    "title": "Chirurgia Plastyczna DD",
+    "mail": [
+      "#c...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZG1rRzUra1lzN0hyMTNJOHo2OGFLdkRkRHM1ZXdpRWd5b2ZNc1VybUJHQT0iO2k6MTtzOjE2OiLscavn+37rh7VMS7yH/5ciIjt9"
+    ]
+  },
+  {
+    "title": "Instytut SPA & Wellness Hotelu Haffner",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Luxis",
+    "mail": [
+      "#g...@luxis.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiaTVLYmlxRmgwUlZxU2NlQ1dZcDFTc0lhZm5IWFBXa3FodC9jdW1tRG5hcz0iO2k6MTtzOjE2OiK8/cl4Mw27Rspz5XlJMbh3Ijt9"
+    ]
+  },
+  {
+    "title": "Sheraton Sopot Spa",
+    "mail": [
+      "#s...@sheraton.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoieSs4TTJ5MHRNYUVQalpQWEplOUpJZURaYmllZGVBNHJRUWN4Q1JSVmtkdz0iO2k6MTtzOjE2OiJifAG5l9yWZ1Emq9Ig/Pi3Ijt9"
+    ]
+  },
+  {
+    "title": "Est\u00e9e Med",
+    "mail": [
+      "#e...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiSWR3c3RKLzVpWHR0T0VHK1c3eHJMRlRsdEhUa1NRR1QrY0ViR1Npbkl0Yz0iO2k6MTtzOjE2OiJHucWLbpALNHjp03gOCHBIIjt9"
+    ]
+  },
+  {
+    "title": "Klinika Gorszewska",
+    "mail": [
+      "#r...@klinikagorszewska.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoidU5sN0gwQ0pycHdycTY3bCtQWHZYOUVJYVNSWWJFSzVuL1FJY2VsWDZDMD0iO2k6MTtzOjE2OiJGNVwRbTsH7dU9+Q6BZy7lIjt9"
+    ]
+  },
+  {
+    "title": "Prestige Beauty Spa",
+    "mail": [
+      "#k...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiRkF5Z3JGdlA3NU1lZHY4Qnl2VlU1YUVYMHpoRHk0bFBreEQ1MlBsbUhrWT0iO2k6MTtzOjE2OiK8ipX7bSEn6liYZULKvKivIjt9"
+    ]
+  },
+  {
+    "title": "Studio kosmetyki profesjonalnej",
+    "mail": [
+      "#s...@op.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiMU5iSGxtVkdVYjhkMGdWUW0rditsRm5kZklzcEVCcDBjaWhwTEdpdURJcz0iO2k6MTtzOjE2OiIQgnRNcp4D3ZVeQh9owToaIjt9"
+    ]
+  },
+  {
+    "title": "Anna Butowska",
+    "mail": [
+      "#e...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibW5KSHFmLzhTcGg4UFJubElRQWlBbjIwT24zYWsyUkExU0R0cmpoelFyaz0iO2k6MTtzOjE2OiLNEQbE/syIHB3mCNeRlHNiIjt9"
+    ]
+  },
+  {
+    "title": "Beauty Derm Instytut",
+    "mail": [
+      "#g...@beautyderm.com.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiRHZJOWlSMXlmQUJQWXVuUTVIK1RMUWdCVlRQMXZoMkFyRkNQeTcrUEc0dz0iO2k6MTtzOjE2OiJdl6GwBg1lvGJXYjXr0zj4Ijt9"
+    ]
+  },
+  {
+    "title": "Diamond Clinic",
+    "mail": [
+      "#r...@diamondclinic.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoieTlGc3g2cFRjbnpkMkdOYlNTbHExV3ZZeUhMcXN2OGliNHZQTHZjTVhoRT0iO2k6MTtzOjE2OiKmWdyOmVmatGRr1px2lXwnIjt9"
+    ]
+  },
+  {
+    "title": "Ecosfera Centrum Podologii i Kosmetologii",
+    "mail": [
+      "#k...@ecosfera.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiNVBFdVFjcXM4bVgxTkN5bDU5eldjM0V6eDJUOWtOMzhEV3hlZjVUWnQwND0iO2k6MTtzOjE2OiKgH7/h/HjpKXf/pTgPKt05Ijt9"
+    ]
+  },
+  {
+    "title": "Mulieres Hair & Body",
+    "mail": [
+      "#s...@mulieres.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiWjdIeVVTOXBOLzRheEM0MkVZTndPN0k5OWJ2dXRwb3JOdTBIdkN2MytoND0iO2k6MTtzOjE2OiINvX6NamDaR5GzFYpyWYMEIjt9"
+    ]
+  },
+  {
+    "title": "OdNowa",
+    "mail": [
+      "#J...@o2.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoicE1YcXhsdTRrUXlBeEJCMCtuYWVrVEFVR3IreFJMUE1JaVErT1hXZXNvVT0iO2k6MTtzOjE2OiJT2FLyaEEnNaL4O5pFYnnLIjt9"
+    ]
+  },
+  {
+    "title": "Salon Kosmetyczny 7th Heaven",
+    "mail": [
+      "#s...@onet.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoieHI0QjVvRzJQK1kwa2pwVTJRc1M2cVNQWUNUeUE5ckk5M2R6V25JVldqWT0iO2k6MTtzOjE2OiKSpHiZJIXAkx+fAaV/ow7yIjt9"
+    ]
+  },
+  {
+    "title": "Sensuum fizjoterapia kosmetyka masa\u017c",
+    "mail": [
+      "#g...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZ1ZrbVZzeWU1S1NlMy8yVHR0WTJTY1ZMUXJXbEI0eXBLcjRmWk5YWjZqcz0iO2k6MTtzOjE2OiKyMJR4S7NAeOiyt07x6o2eIjt9"
+    ]
+  },
+  {
+    "title": "Studio Urody Avignion",
+    "mail": [
+      "#w...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoidU1EbDlZcnJJZFR0UXVtTkRyZGpLdz09IjtpOjE7czoxNjoihrgy/h5ffETr6u23R0FVTSI7fQ=="
+    ]
+  },
+  {
+    "title": "Studio Urody",
+    "mail": [
+      "#j...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiU1FvWmRRdXhHdG9kQitZY01iRVIxYWRVMVBzQnc3WXpqK0ZWK3lZZzNQcz0iO2k6MTtzOjE2OiKaJIQqvkrlooCLI/Cz5Cm/Ijt9"
+    ]
+  },
+  {
+    "title": "Abacosun",
+    "mail": [
+      "#r...@abacosungdansk.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoicHE3ZWxubzJITUxKeEIwWGNCZDhWQjJLbXQ3azNnRkZSZVljenJoYmd5bz0iO2k6MTtzOjE2OiIGjjtppU5Il2lavHcw7afrIjt9"
+    ]
+  },
+  {
+    "title": "BLUE SUN",
+    "mail": [
+      "#b...@op.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoielZlR0JSTjVsZFp4bGVMd3YrejNJdz09IjtpOjE7czoxNjoiAzzqGfLSoD7EWCPIduC1iSI7fQ=="
+    ]
+  },
+  {
+    "title": "FACEBAR ACADEMY",
+    "mail": [
+      "#k...@facebar.com.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiUjVmSGFXYkt1TnlPcUhDRGRPVzU3NzdOQUkxVXZFNUw5b2RXUEU5RjVpVT0iO2k6MTtzOjE2OiI+eXlGWKRVX0P/SFLdMIJFIjt9"
+    ]
+  },
+  {
+    "title": "Sopocka Fabryka Urody",
+    "mail": [
+      "#r...@sopockafabrykaurody.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo2NDoiT3p6Qis4MUpWejAyR3VORFZ4dFNoTVVkbzA5b0ZBVnBiZElKbVFQK3FEYlA3NFdFZGgwTHVra1ozbkpyY0k4ZiI7aToxO3M6MTY6IuboMnndCLiJrFexXX9Vw9oiO30="
+    ]
+  },
+  {
+    "title": "Spa Osowa",
+    "mail": [
+      "#r...@spaosowa.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoibnJ5MnAwNHFCWVpHUWNDdWlDTGVJclFXNWt4aENZMVR3eDZaM2tsVndqQT0iO2k6MTtzOjE2OiIyJ6TtXVyn8usEqlTy90C3Ijt9"
+    ]
+  },
+  {
+    "title": "Studio Urody Look",
+    "mail": [
+      "#S...@wp.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZFJBbWJxREtsTmRIQW82MW5RSjA2MXlMbmVnM3R4ekJlOEdETnUyZFNDcz0iO2k6MTtzOjE2OiIWcMGy7GtB5yyEh1E9WoxgIjt9"
+    ]
+  },
+  {
+    "title": "Studio51",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Une Belle Peau",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum Zdrowia i Pi\u0119kna.",
+    "mail": [
+      "#i...@hbmed.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiSW9MU1FiL084YmtiNTdpUnBWeGkvQT09IjtpOjE7czoxNjoiNZs2MPImA6yW+rwu79TWbSI7fQ=="
+    ]
+  },
+  {
+    "title": "Klinika Anti-Aging INVICTA",
+    "mail": [
+      "#r...@invicta.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiZE1ja3AxYmVDSjNGODhSdHVJWmFGY1RtM0RJZEJUSzJDWERqdkUxampoST0iO2k6MTtzOjE2OiKFNpJ4Im7gFf3HRu0LYe+wIjt9"
+    ]
+  },
+  {
+    "title": "Makeup Artist",
+    "mail": [
+      "#n...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiN0tlbDYyUUNmbm1iT2NWU0xnclpRczhOU1BRT01GckhrZjBtZmdsN21vQT0iO2k6MTtzOjE2OiKUdAmxdOiwtuScSHmKG475Ijt9"
+    ]
+  },
+  {
+    "title": "Synea Medical",
+    "mail": [
+      "#r...@synea.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiVS9SM1E0ZWhXdThrTnR6MG1mQkRHQzV0eE82dGFMME9SSDdFQjd0YUo4ND0iO2k6MTtzOjE2OiJywuUKdrJ2KsvpKAv1aw+5Ijt9"
+    ]
+  },
+  {
+    "title": "MISI Fizjoterapia & SPA",
+    "mail": [
+      "#m...@gmail.com"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiNkV1emtyajNXTlpMN2EwZlZ1Z2IzRUpxTTBRRUVVZFMyOEtOanhXN2NGTT0iO2k6MTtzOjE2OiK2rmi01L1xxrxzzOyIVNE6Ijt9"
+    ]
+  },
+  {
+    "title": "Derm-Estetyka",
+    "mail": [
+      "#g...@derm-estetyka.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czo0NDoiVlJlTFRTWkRUY2diN0RxTFN0OEpackxlVHBBcTFaM1FtQzR0cW9QcS9rND0iO2k6MTtzOjE2OiKzUkxL57Xz33wMgjxYB+gVIjt9"
+    ]
+  },
+  {
+    "title": "OXO Luxury Spa",
+    "mail": [
+      "#s...@oxospa.pl"
+    ],
+    "data-type": [
+      "katalog"
+    ],
+    "data-hash": [
+      "YToyOntpOjA7czoyNDoiUlkweVVsMHE5NzNNQ1pXalFEZGlIZz09IjtpOjE7czoxNjoit0aQmMV1LXA64frb1H3ZhiI7fQ=="
+    ]
+  },
+  {
+    "title": "123 Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "7th Heaven",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Abacosun Instytut Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Abacosun Osowa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Abacosun",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Adea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Afrykada",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Alabaster",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Aleksandra",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Aleksandra",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "AM Team Kosmetologia i Fryzjerstwo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "AMAKO Pracownia Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Amala",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Amelia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ametyst studio urody i masa\u017cu",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "amiamo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ancymon -",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Angel Of Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Anna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Anna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Aquaderma",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Arte",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Aspazja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Atelier Urody Wittig",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Audrey gabinet kosmetologiczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beaut\u00e9 magique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Bay",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Buffet",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Club",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Complex",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Expert",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Look",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Marine",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "BeBeauty&fit Clubs",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Bella Donna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Belle",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Belle Femme",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Bellezza Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Betty Blue",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "BeYOUtiful",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Body Mind",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "BohoBeauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Central Look",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum OdNova",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ciach",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Clinic",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Cosmedique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Danka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "DERMAYA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dermia Solution Kosmetologia Estetyczna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "DG Strefa Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "DIDI Diana Kucharska",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "DJK Zdrowie i Uroda",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dla Pani",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "DonSylviano",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dora",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dorota",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dorota",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dr. Hauschka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dubaj & Thalgo Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Duet kosmetyka & fryzjerstwo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "eBeautyLab",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Edit",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Egoiste Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Eksperci Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "ElanVital",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Elis",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "ELLE",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Emma",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Escentrik",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Essence salon kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estee Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estetic Studio Kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estetica",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estetique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estheticienne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Esthetique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Euforia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Euphoria",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ewka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fabryka Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fabryka Rz\u0119s",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fabulous",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Factory of Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fanaberia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fenix",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "For You Hair & MediSpa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet CAMIRA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczno - Podologiczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny  JL",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Alicja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Ambrozja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Beata",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Esti",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Gaja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny i Perfumeria",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny i Perfumeria",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Karoll",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Klara",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Kobieciarnia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny PANI",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyki Naturalnej",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyki Profesjonalnej",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Odnowy",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Urody Milagro",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Vena",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Galeria Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Glamour Salon Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Glamour",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Halina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Halina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Happy Face & Body",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Idylla Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Iga",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ikona Gabinet Kosmetyki Profesjonalnej i Wiza\u017cu",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "INNOVATION BEAUTY",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Pi\u0119kna JoaWoj",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Urody POR FAVOR",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Insytut urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Joanna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "K&G Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "K\u0105cik urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "K\u0105cik Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "K\u0105cik Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kamelia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kate Beauty Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Klinika Urody Sopot",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetolog",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetologia Karolina Pietkiewicz",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetologia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetologia Podologia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetomania",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka DermOna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka Justyna Wilczewska",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka Profesjonalna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka Profesjonalna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyka profesjonalna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kostania",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Krystyna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "LaFemme",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Laser line",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Laserina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Laura gabinet kosmetyczno- fryzjerski",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Layla beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Lea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Lidia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Looksus",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "LOUI Ambasador Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Luna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Mabecare Beauty & Massage",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Madam Naturel",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Madame",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Madame",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Madlen",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "MaestRia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Magia Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Magia urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Magnific Clinique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Majestat Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ma\u0142y raj",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "ManiaUrody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Manufaktura Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Martiel",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Medica-Link SPA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Medical Line Micropigmentation",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Metamorfoza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Metamorfoza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Metamorfoza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Metamorfozy Morena",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Mi\u0119dzy Dusz\u0105 a Cia\u0142em",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Mistika",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "MK Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "MM",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Moena",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "MonaEliza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Morski k\u0105cik",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Nadobne - kosmetologia, fizjoterapia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Narodziny Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Natural Salon & Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Naturmedicin",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Naturoterapia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Nefer",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Nefretete",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "NEW SKIN CLINIC",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "NIK ANA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "No i pi\u0119knie",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Novello",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Olivka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Oliwski Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Orchid Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Orchidea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pasja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Per\u0142a Lux",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Per\u0142a Studio Kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "PermanentMake-Up & Stylizacja Paznokci, Fryzjer",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "PHU Sonia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pi\u0119kna Ty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Piema",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pik",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Podo-Wax",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pracownia Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Prestige",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Prettiest Face",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Primavera",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Przystanek Pi\u0119kno",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Relaks",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Rituals",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "R\u00f3\u017ca",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Cancun",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Firmowy",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko - kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Kosmetyczny Ivona",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Kosmetyczny Petite Perle",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon kosmetyczny Visage & Glomour",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Uroda Park",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Abacosun",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody AnA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Beauty Dream",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Farfalla",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Joliesse",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Maska",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Maska",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Per\u0142a",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Per\u0142a",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Prestige",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Prestige No.1",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Przysta\u0144 Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody TopCosmet Premium Beauty House",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon zdrowia i urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salonik Fryzjersko-Kosmetyczny Ewa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salonik Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sandy SPA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Schody do Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Seacret Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Seaside Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Secret of Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sekret Urody Studio Kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sekrety Cery",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sense of Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sensi",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sensual Lady",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Siesta",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Si\u00f3dme Niebo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sjesta",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Skin",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "SPA na k\u00f3\u0142kach",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Spa Sopot",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Spameed",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Stenia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Strefa Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Botee Kosmetyka Podologia Barbara Koziara",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Feniks",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Fryzjerskie",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Gamma",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Jenny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Kosmetyczne Allure",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio kosmetyczne Karolina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Kosmetyczne Kashmir",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Kosmetyczno - Fryzjerskie Uroda",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Kosmetyczno-Fryzjerskie",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio kosmetyczno-fryzjerskie",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Natalia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio S",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio SBP",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody Bell",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio urody Glamour",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody la Beaut\u00e9",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody Maria Galland",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody Sunset",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody Sylvia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Zdrowia i Urody Rolletic",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Styl i Uroda",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sun And Beauty Make-Up Artis",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Sunset Centrum Opalania",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "SuperNova",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "SZEROKA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Szkolenia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Tintamare",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "TopCosmet",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Tw\u00f3j Salon",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Unique Look",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Us\u0142ugi kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Us\u0142ugi Kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Vanillia - Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wenus",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wenus Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wioleta",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "wSPAniale",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "XS-salon",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Your Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Zabiegi kwasem hialuronowym",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Zawsze Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Arkesia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Atelier Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Bakinka Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beaut\u00e9 Room",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty for Us",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Bellezza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "bodycia\u0142o Klinika Zdrowia i Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Carmen Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum Urody Magia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Easy",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Essence Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estetica",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estetica Expert Nails",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Evita",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet kosmetyczny Paris",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny YOKO",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny, Laboratorium Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Urody SELENA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Harmony",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Endolashes",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ivona",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kaszmir Ambasada Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Magia dotyku",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Miss Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Najlove Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Oasis Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pi\u0119kna i Bestia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pi\u0119kna Na Co Dzie\u0144",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pracownia Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Kosmetyczny Latika",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon urody Gabriel",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Lorien",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Oliwia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Spareda- Salon Pi\u0119kno\u015bci",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Strefa Czasu",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Kleopatra",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Sunlight",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Urody Babiniec",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Zdrowia i Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Venus",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Yasumi epil",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Adara",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Adikari",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "AJ Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Akademia Urody Olimp",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Allure Institute",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Amelia Sun",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Anna Kardzis",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Antonio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "AS Professional Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Atelier",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Atelier103",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Avangarda",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Baltiqa Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Baltiqa Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Baltiqa Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beata Salon",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Box Hair&Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Medical",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Place",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Secret",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Beauty Shop",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Belle Colour",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Body Shape Garden",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "BodyMed",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Cenote",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "CICHY/ DESIGN",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "ClinicaNova",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Crystal",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dana",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Diamond hair & beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dolce Vita Eksperci Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Dotyk Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Duet",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Duet",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Efi",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Elixir",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Elnes",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "En Face",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "en vogue - Perfect Hair",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "EPI-Centrum",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Estela",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fabryka urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Fitness Klub Marlet",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Gabinet Kosmetyczny Dimelo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Galeria Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Grzebyk i Sp\u00f3\u0142ka",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Hair Design",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "IMAGE",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Innovea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Kosmetologii",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Instytut Spa & Wellness Venice",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "In\u017cynieria Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Jacques Andre Hair & SPA",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Joel",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Joliesse",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kinga",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Kosmetyczny Instytut Dr Irena Eris",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "L'\u00e9l\u00e9gance Instytut Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "La Bella Lounge",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "La Perla",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Lalea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Le Petit Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Long life",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Madellaina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Magia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Makija\u017c Permanentny / Mikropigmentacja",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Makija\u017c Permanentny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Medica Cosmetics",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Medica Cosmetics",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Milenium",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Moments Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Mystique",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "New Estetica",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Nice Med",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Oaza Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "OdNova",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ona & On",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Park Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Paula Roccialli",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pedive gabinet podologiczno-kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Permanent make up by Sara Sowa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pi\u0119kna sk\u00f3ra",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pi\u0119kno PL",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Planeta Styl",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pracownia by Izabella",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pracownia Fryzjersko-Kosmetyczna SHINE",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Przysta\u0144 Kobieco\u015bci & MasuYou",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Punkt Uroda",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Ramona",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Coco",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjerski Effect",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjerski Eleni",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjerski Macias",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko - kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko - kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko - kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko Kosmetyczny Kabat",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny Letta",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko-kosmetyczny Po\u0142om",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko-kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko-kosmetyczny WENUS",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon kosmetyczno-fryzjerski",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon kosmetyczny Orchidea",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon MM",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Tillo",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Merilyn",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Nowa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Urody Viva",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salony Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "So Glam",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "SPA Sentoza",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Strefa Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio 01",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio 82",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Anny Lisewskiej",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio fryzjersko-kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio fryzjersko-kosmetyczne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Fryzur Emilia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Fryzur i Urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Gwiazd",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Hanna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio kosmetyki profesjonalnej",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Marina",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Natura",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Retro",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio urody Rituals",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Taida Niklas Lash Collections",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "U Dorki",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Underground Fryzjerstwo Kreatywne",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Veoli Clinic",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wariacje Pi\u0119kna",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wax Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wax Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Wega",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "WM Studio",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "You and Beauty",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Zak\u0105tek urody",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Akademia Przyjemno\u015bci",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Baltiqa Day Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Euforia",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Galeria Fryzur Artystycznych",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "MalluArt",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Nouva Vita",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Pudrowy",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon Fryzjersko-Kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Salon fryzjersko-kosmetyczny",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Secret Med Spa",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Studio Wiza\u017cu i Kosmetyki",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "Centrum Odm\u0142adzania",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  },
+  {
+    "title": "ReNew Institute",
+    "mail": [],
+    "data-type": [],
+    "data-hash": []
+  }
 ]
