@@ -12,7 +12,9 @@ class QuotesSpider(scrapy.Spider):
 
            yield {
                 'title': quote.css('h1 a span::text').get(),
-                'www': quote.css('div.wrap dl.ob-details dd.www').xpath('a/@href').getall(),
+                'mail': quote.css('div.wrap dl.ob-details dd.e-mail').xpath('a/@href').getall(),
+                'data-type': quote.css('div.wrap dl.ob-details dd.e-mail').xpath('a/@data-type').getall(),
+                'data-hash': quote.css('div.wrap dl.ob-details dd.e-mail').xpath('a/@data-hash').getall(),
            }
 
         pages = response.css('li.page-step').xpath('a')
